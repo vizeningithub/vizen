@@ -1,1 +1,4 @@
-# vizen
+# include<iostream>
+using namespace std
+INT A,B,C;
+
